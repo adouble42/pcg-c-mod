@@ -1,6 +1,6 @@
 this code has been modified to build as a shared library under
 freebsd with the intention of embedding in other 
-projects/ports as a distfile
+projects/ports
 
 -abner doubleday
 
